@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # ==== Email Sender Credentials ====
-SENDER_EMAIL = "soulai7771@gmail.com"         # Replace with your email
-SENDER_PASSWORD = "xaejuqjmsgqtfrwu"    # Use App Password (not Gmail password)
+SENDER_EMAIL = "your mail"         # Replace with your email
+SENDER_PASSWORD = "your-password"    # Use App Password (not Gmail password)
 
 # ==== Global Email State ====
 email_state = {
